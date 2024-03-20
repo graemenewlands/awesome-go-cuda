@@ -67,6 +67,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads) - install the SDK
 - [CUDA Samples](https://github.com/NVIDIA/cuda-samples/tree/master/Samples/1_Utilities) - bandwidthTest and deviceQuery not installed by default with the CUDA Toolkit
 - [CUDA Library Samples](https://github.com/NVIDIA/CUDALibrarySamples) - detailed examples of every library type, cuTENSOR, cuSPARSE, etc..
+- [Non Idiomatic Get Started](https://github.com/graemenewlands/go-cuda-helloworld) - this is an implementation of the GPU Hello World
 
 ## learn
 
