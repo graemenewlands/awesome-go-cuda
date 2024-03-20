@@ -36,6 +36,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Standard Library](https://pkg.go.dev/cmd/cgo) - cgo as documented in the go standard library
 - [The Go Blog](https://go.dev/blog/cgo) - cgo as originally introduced in the go blog
 - [CGo Examples](https://github.com/andreiavrammsd/cgo-examples) - succinct examples of calling C routines from go, along with callbacks.
+- [The CGO Call Boundary](https://github.com/graemenewlands/cgo-boundary) - an attempt at quantification of the cgo call boundary
 
 ## community
 
