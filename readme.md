@@ -37,6 +37,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [The Go Blog](https://go.dev/blog/cgo) - cgo as originally introduced in the go blog
 - [CGo Examples](https://github.com/andreiavrammsd/cgo-examples) - succinct examples of calling C routines from go, along with callbacks.
 - [The CGO Call Boundary](https://github.com/graemenewlands/cgo-boundary) - an attempt at quantification of the cgo call boundary
+- [CGo Is Not Go](https://dave.cheney.net/2016/01/18/cgo-is-not-go) - Dave Cheney's great article describing the full scope of limitation that CGo has.
 
 ## community
 
